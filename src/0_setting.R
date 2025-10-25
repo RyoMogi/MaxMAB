@@ -11,5 +11,3 @@ Mycol <- c("#08306B", "#238B45", "#FD8D3C", "#D4B9DA", "#FFEDA0")
 col8 <- c("#332288", "#88CCEE", "#44AA99", "#117733", "#999933", "#FD8D3C", "#882255", "#DDDDDD")
 col7 <- c("#332288", "#88CCEE", "#117733", "#FD8D3C", "#882255", "#999933", "#DDDDDD")
 over50p <- c("50", "51", "52", "53", "54", "55+")
-
-source("../../Fertility_linear/Analysis/src/01_originalfunction.R")
